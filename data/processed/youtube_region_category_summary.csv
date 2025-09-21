@@ -1,0 +1,584 @@
+region,categoryName,count,percentage,max_percentage,max_category
+Albania,Gaming,22,0.44,0.44,Gaming
+Albania,Music,17,0.34,0.44,Gaming
+Albania,Entertainment,6,0.12,0.44,Gaming
+Albania,Sports,2,0.04,0.44,Gaming
+Albania,People & Blogs,2,0.04,0.44,Gaming
+Albania,Film & Animation,1,0.02,0.44,Gaming
+Algeria,Music,22,0.44,0.44,Music
+Algeria,Gaming,18,0.36,0.44,Music
+Algeria,People & Blogs,6,0.12,0.44,Music
+Algeria,Entertainment,2,0.04,0.44,Music
+Algeria,Sports,1,0.02,0.44,Music
+Algeria,Howto & Style,1,0.02,0.44,Music
+Argentina,Gaming,22,0.44,0.44,Gaming
+Argentina,Music,21,0.42,0.44,Gaming
+Argentina,Entertainment,3,0.06,0.44,Gaming
+Argentina,Film & Animation,2,0.04,0.44,Gaming
+Argentina,People & Blogs,2,0.04,0.44,Gaming
+Armenia,Gaming,20,0.4,0.4,Gaming
+Armenia,Music,17,0.34,0.4,Gaming
+Armenia,People & Blogs,7,0.14,0.4,Gaming
+Armenia,Entertainment,4,0.08,0.4,Gaming
+Armenia,Comedy,1,0.02,0.4,Gaming
+Armenia,Sports,1,0.02,0.4,Gaming
+Australia,Gaming,19,0.38,0.38,Gaming
+Australia,Music,18,0.36,0.38,Gaming
+Australia,Film & Animation,6,0.12,0.38,Gaming
+Australia,Entertainment,6,0.12,0.38,Gaming
+Australia,Sports,1,0.02,0.38,Gaming
+Austria,Gaming,18,0.36,0.36,Gaming
+Austria,Music,16,0.32,0.36,Gaming
+Austria,Entertainment,10,0.2,0.36,Gaming
+Austria,Film & Animation,4,0.08,0.36,Gaming
+Austria,People & Blogs,1,0.02,0.36,Gaming
+Austria,Travel & Events,1,0.02,0.36,Gaming
+Azerbaijan,Gaming,24,0.48,0.48,Gaming
+Azerbaijan,Music,23,0.46,0.48,Gaming
+Azerbaijan,Entertainment,2,0.04,0.48,Gaming
+Azerbaijan,Film & Animation,1,0.02,0.48,Gaming
+Bahrain,Gaming,23,0.46,0.46,Gaming
+Bahrain,Music,8,0.16,0.46,Gaming
+Bahrain,People & Blogs,7,0.14,0.46,Gaming
+Bahrain,Entertainment,7,0.14,0.46,Gaming
+Bahrain,Film & Animation,4,0.08,0.46,Gaming
+Bahrain,Sports,1,0.02,0.46,Gaming
+Bangladesh,Music,40,0.4,0.4,Music
+Bangladesh,Gaming,38,0.38,0.4,Music
+Bangladesh,Entertainment,14,0.14,0.4,Music
+Bangladesh,Film & Animation,6,0.06,0.4,Music
+Bangladesh,People & Blogs,2,0.02,0.4,Music
+Belarus,Gaming,29,0.58,0.58,Gaming
+Belarus,Music,15,0.3,0.58,Gaming
+Belarus,Entertainment,4,0.08,0.58,Gaming
+Belarus,Comedy,1,0.02,0.58,Gaming
+Belarus,Film & Animation,1,0.02,0.58,Gaming
+Belgium,Music,20,0.4,0.4,Music
+Belgium,Gaming,14,0.28,0.4,Music
+Belgium,Entertainment,6,0.12,0.4,Music
+Belgium,Film & Animation,5,0.1,0.4,Music
+Belgium,Sports,2,0.04,0.4,Music
+Belgium,Comedy,1,0.02,0.4,Music
+Belgium,People & Blogs,1,0.02,0.4,Music
+Belgium,Autos & Vehicles,1,0.02,0.4,Music
+Bolivia,Gaming,22,0.44,0.44,Gaming
+Bolivia,Music,15,0.3,0.44,Gaming
+Bolivia,People & Blogs,8,0.16,0.44,Gaming
+Bolivia,Film & Animation,3,0.06,0.44,Gaming
+Bolivia,Entertainment,2,0.04,0.44,Gaming
+Bosnia and Herzegovina,Gaming,20,0.4,0.4,Gaming
+Bosnia and Herzegovina,Music,16,0.32,0.4,Gaming
+Bosnia and Herzegovina,Entertainment,10,0.2,0.4,Gaming
+Bosnia and Herzegovina,Comedy,2,0.04,0.4,Gaming
+Bosnia and Herzegovina,Film & Animation,1,0.02,0.4,Gaming
+Bosnia and Herzegovina,People & Blogs,1,0.02,0.4,Gaming
+Brazil,Gaming,18,0.36,0.36,Gaming
+Brazil,Music,16,0.32,0.36,Gaming
+Brazil,Entertainment,7,0.14,0.36,Gaming
+Brazil,People & Blogs,6,0.12,0.36,Gaming
+Brazil,Film & Animation,3,0.06,0.36,Gaming
+Bulgaria,Music,23,0.46,0.46,Music
+Bulgaria,Gaming,22,0.44,0.46,Music
+Bulgaria,Film & Animation,3,0.06,0.46,Music
+Bulgaria,Entertainment,1,0.02,0.46,Music
+Bulgaria,Science & Technology,1,0.02,0.46,Music
+Cambodia,Gaming,19,0.38,0.38,Gaming
+Cambodia,Music,18,0.36,0.38,Gaming
+Cambodia,People & Blogs,6,0.12,0.38,Gaming
+Cambodia,Entertainment,5,0.1,0.38,Gaming
+Cambodia,Film & Animation,2,0.04,0.38,Gaming
+Canada,Gaming,19,0.38,0.38,Gaming
+Canada,Music,18,0.36,0.38,Gaming
+Canada,Film & Animation,7,0.14,0.38,Gaming
+Canada,Entertainment,6,0.12,0.38,Gaming
+Chile,Gaming,22,0.44,0.44,Gaming
+Chile,Music,22,0.44,0.44,Gaming
+Chile,People & Blogs,2,0.04,0.44,Gaming
+Chile,Film & Animation,2,0.04,0.44,Gaming
+Chile,Entertainment,2,0.04,0.44,Gaming
+Colombia,Gaming,23,0.46,0.46,Gaming
+Colombia,Music,17,0.34,0.46,Gaming
+Colombia,People & Blogs,7,0.14,0.46,Gaming
+Colombia,Entertainment,2,0.04,0.46,Gaming
+Colombia,Film & Animation,1,0.02,0.46,Gaming
+Croatia,Music,16,0.32,0.32,Music
+Croatia,Gaming,15,0.3,0.32,Music
+Croatia,Entertainment,10,0.2,0.32,Music
+Croatia,Film & Animation,5,0.1,0.32,Music
+Croatia,Comedy,2,0.04,0.32,Music
+Croatia,People & Blogs,1,0.02,0.32,Music
+Croatia,Sports,1,0.02,0.32,Music
+Cyprus,Gaming,29,0.7073,0.7073,Gaming
+Cyprus,Music,6,0.1463,0.7073,Gaming
+Cyprus,Entertainment,2,0.048799999999999996,0.7073,Gaming
+Cyprus,People & Blogs,2,0.048799999999999996,0.7073,Gaming
+Cyprus,Sports,1,0.024399999999999998,0.7073,Gaming
+Cyprus,Film & Animation,1,0.024399999999999998,0.7073,Gaming
+Czech Republic,Music,21,0.42,0.42,Music
+Czech Republic,Gaming,15,0.3,0.42,Music
+Czech Republic,Entertainment,8,0.16,0.42,Music
+Czech Republic,Film & Animation,2,0.04,0.42,Music
+Czech Republic,People & Blogs,2,0.04,0.42,Music
+Czech Republic,Comedy,1,0.02,0.42,Music
+Czech Republic,News & Politics,1,0.02,0.42,Music
+Denmark,Gaming,24,0.48,0.48,Gaming
+Denmark,Music,18,0.36,0.48,Gaming
+Denmark,Film & Animation,4,0.08,0.48,Gaming
+Denmark,Entertainment,3,0.06,0.48,Gaming
+Denmark,Autos & Vehicles,1,0.02,0.48,Gaming
+Ecuador,Gaming,24,0.48,0.48,Gaming
+Ecuador,Music,16,0.32,0.48,Gaming
+Ecuador,People & Blogs,7,0.14,0.48,Gaming
+Ecuador,Education,1,0.02,0.48,Gaming
+Ecuador,Film & Animation,1,0.02,0.48,Gaming
+Ecuador,Entertainment,1,0.02,0.48,Gaming
+Egypt,Music,23,0.46,0.46,Music
+Egypt,Gaming,20,0.4,0.46,Music
+Egypt,People & Blogs,3,0.06,0.46,Music
+Egypt,Film & Animation,2,0.04,0.46,Music
+Egypt,Entertainment,1,0.02,0.46,Music
+Egypt,Howto & Style,1,0.02,0.46,Music
+Estonia,Gaming,16,0.4706,0.4706,Gaming
+Estonia,Music,8,0.2353,0.4706,Gaming
+Estonia,Film & Animation,3,0.0882,0.4706,Gaming
+Estonia,People & Blogs,2,0.0588,0.4706,Gaming
+Estonia,Entertainment,2,0.0588,0.4706,Gaming
+Estonia,Sports,1,0.0294,0.4706,Gaming
+Estonia,Comedy,1,0.0294,0.4706,Gaming
+Estonia,Travel & Events,1,0.0294,0.4706,Gaming
+Finland,Gaming,22,0.44,0.44,Gaming
+Finland,Music,19,0.38,0.44,Gaming
+Finland,Film & Animation,5,0.1,0.44,Gaming
+Finland,Entertainment,3,0.06,0.44,Gaming
+Finland,Travel & Events,1,0.02,0.44,Gaming
+France,Music,20,0.4,0.4,Music
+France,Gaming,17,0.34,0.4,Music
+France,Entertainment,4,0.08,0.4,Music
+France,Film & Animation,4,0.08,0.4,Music
+France,People & Blogs,4,0.08,0.4,Music
+France,Sports,1,0.02,0.4,Music
+Germany,Music,20,0.4,0.4,Music
+Germany,Gaming,18,0.36,0.4,Music
+Germany,Entertainment,7,0.14,0.4,Music
+Germany,Film & Animation,5,0.1,0.4,Music
+Ghana,Music,15,0.3,0.3,Music
+Ghana,Gaming,11,0.22,0.3,Music
+Ghana,Entertainment,10,0.2,0.3,Music
+Ghana,Sports,5,0.1,0.3,Music
+Ghana,People & Blogs,4,0.08,0.3,Music
+Ghana,Film & Animation,2,0.04,0.3,Music
+Ghana,Nonprofits & Activism,2,0.04,0.3,Music
+Ghana,Comedy,1,0.02,0.3,Music
+Greece,Gaming,19,0.38,0.38,Gaming
+Greece,Music,17,0.34,0.38,Gaming
+Greece,Entertainment,7,0.14,0.38,Gaming
+Greece,Film & Animation,6,0.12,0.38,Gaming
+Greece,People & Blogs,1,0.02,0.38,Gaming
+HN,Gaming,20,0.4,0.4,Gaming
+HN,Music,16,0.32,0.4,Gaming
+HN,People & Blogs,7,0.14,0.4,Gaming
+HN,Entertainment,4,0.08,0.4,Gaming
+HN,Film & Animation,2,0.04,0.4,Gaming
+HN,Sports,1,0.02,0.4,Gaming
+Hong Kong,Gaming,21,0.42,0.42,Gaming
+Hong Kong,Music,21,0.42,0.42,Gaming
+Hong Kong,Entertainment,5,0.1,0.42,Gaming
+Hong Kong,People & Blogs,2,0.04,0.42,Gaming
+Hong Kong,Film & Animation,1,0.02,0.42,Gaming
+Hungary,Music,17,0.34,0.34,Music
+Hungary,Gaming,14,0.28,0.34,Music
+Hungary,Film & Animation,8,0.16,0.34,Music
+Hungary,Entertainment,5,0.1,0.34,Music
+Hungary,People & Blogs,3,0.06,0.34,Music
+Hungary,Comedy,2,0.04,0.34,Music
+Hungary,Science & Technology,1,0.02,0.34,Music
+Iceland,Gaming,5,0.4167,0.4167,Gaming
+Iceland,Film & Animation,2,0.16670000000000001,0.4167,Gaming
+Iceland,Sports,2,0.16670000000000001,0.4167,Gaming
+Iceland,Entertainment,1,0.0833,0.4167,Gaming
+Iceland,People & Blogs,1,0.0833,0.4167,Gaming
+Iceland,Music,1,0.0833,0.4167,Gaming
+India,Music,20,0.4,0.4,Music
+India,Gaming,12,0.24,0.4,Music
+India,Entertainment,7,0.14,0.4,Music
+India,People & Blogs,6,0.12,0.4,Music
+India,Film & Animation,5,0.1,0.4,Music
+Indonesia,Gaming,23,0.46,0.46,Gaming
+Indonesia,Music,21,0.42,0.46,Gaming
+Indonesia,Entertainment,2,0.04,0.46,Gaming
+Indonesia,People & Blogs,2,0.04,0.46,Gaming
+Indonesia,Film & Animation,2,0.04,0.46,Gaming
+Iraq,Gaming,42,0.42,0.42,Gaming
+Iraq,Music,26,0.26,0.42,Gaming
+Iraq,People & Blogs,24,0.24,0.42,Gaming
+Iraq,Entertainment,6,0.06,0.42,Gaming
+Iraq,Howto & Style,2,0.02,0.42,Gaming
+Ireland,Music,18,0.36,0.36,Music
+Ireland,Gaming,16,0.32,0.36,Music
+Ireland,Film & Animation,9,0.18,0.36,Music
+Ireland,Entertainment,5,0.1,0.36,Music
+Ireland,Sports,1,0.02,0.36,Music
+Ireland,People & Blogs,1,0.02,0.36,Music
+Israel,Gaming,44,0.44,0.44,Gaming
+Israel,Music,42,0.42,0.44,Gaming
+Israel,Film & Animation,6,0.06,0.44,Gaming
+Israel,Entertainment,4,0.04,0.44,Gaming
+Israel,People & Blogs,4,0.04,0.44,Gaming
+Italy,Gaming,17,0.34,0.34,Gaming
+Italy,Music,17,0.34,0.34,Gaming
+Italy,Film & Animation,8,0.16,0.34,Gaming
+Italy,Entertainment,3,0.06,0.34,Gaming
+Italy,People & Blogs,2,0.04,0.34,Gaming
+Italy,Travel & Events,1,0.02,0.34,Gaming
+Italy,Sports,1,0.02,0.34,Gaming
+Italy,Pets & Animals,1,0.02,0.34,Gaming
+Japan,Music,19,0.38,0.38,Music
+Japan,Gaming,19,0.38,0.38,Music
+Japan,Entertainment,9,0.18,0.38,Music
+Japan,Film & Animation,2,0.04,0.38,Music
+Japan,People & Blogs,1,0.02,0.38,Music
+Jordan,Music,21,0.42,0.42,Music
+Jordan,Gaming,20,0.4,0.42,Music
+Jordan,People & Blogs,7,0.14,0.42,Music
+Jordan,Film & Animation,2,0.04,0.42,Music
+Kazakhstan,Gaming,24,0.48,0.48,Gaming
+Kazakhstan,Music,13,0.26,0.48,Gaming
+Kazakhstan,People & Blogs,8,0.16,0.48,Gaming
+Kazakhstan,Entertainment,4,0.08,0.48,Gaming
+Kazakhstan,Comedy,1,0.02,0.48,Gaming
+Kenya,Music,20,0.4,0.4,Music
+Kenya,Gaming,15,0.3,0.4,Music
+Kenya,Sports,5,0.1,0.4,Music
+Kenya,Entertainment,4,0.08,0.4,Music
+Kenya,People & Blogs,3,0.06,0.4,Music
+Kenya,Film & Animation,2,0.04,0.4,Music
+Kenya,Education,1,0.02,0.4,Music
+Kuwait,Music,20,0.4,0.4,Music
+Kuwait,Gaming,13,0.26,0.4,Music
+Kuwait,Film & Animation,8,0.16,0.4,Music
+Kuwait,Entertainment,5,0.1,0.4,Music
+Kuwait,People & Blogs,4,0.08,0.4,Music
+Laos,Gaming,21,0.42,0.42,Gaming
+Laos,Music,20,0.4,0.42,Gaming
+Laos,People & Blogs,5,0.1,0.42,Gaming
+Laos,Entertainment,2,0.04,0.42,Gaming
+Laos,Travel & Events,1,0.02,0.42,Gaming
+Laos,Film & Animation,1,0.02,0.42,Gaming
+Latvia,Gaming,29,0.58,0.58,Gaming
+Latvia,Entertainment,7,0.14,0.58,Gaming
+Latvia,Music,7,0.14,0.58,Gaming
+Latvia,Film & Animation,2,0.04,0.58,Gaming
+Latvia,Comedy,1,0.02,0.58,Gaming
+Latvia,Autos & Vehicles,1,0.02,0.58,Gaming
+Latvia,Travel & Events,1,0.02,0.58,Gaming
+Latvia,Sports,1,0.02,0.58,Gaming
+Latvia,News & Politics,1,0.02,0.58,Gaming
+Lebanon,Music,23,0.46,0.46,Music
+Lebanon,Gaming,17,0.34,0.46,Music
+Lebanon,People & Blogs,6,0.12,0.46,Music
+Lebanon,Entertainment,2,0.04,0.46,Music
+Lebanon,Film & Animation,2,0.04,0.46,Music
+Libya,Music,21,0.42,0.42,Music
+Libya,Gaming,16,0.32,0.42,Music
+Libya,People & Blogs,6,0.12,0.42,Music
+Libya,Entertainment,4,0.08,0.42,Music
+Libya,Film & Animation,2,0.04,0.42,Music
+Libya,Howto & Style,1,0.02,0.42,Music
+Liechtenstein,Gaming,32,0.32,0.32,Gaming
+Liechtenstein,Music,28,0.28,0.32,Gaming
+Liechtenstein,Entertainment,24,0.24,0.32,Gaming
+Liechtenstein,Film & Animation,10,0.1,0.32,Gaming
+Liechtenstein,Sports,4,0.04,0.32,Gaming
+Liechtenstein,Comedy,2,0.02,0.32,Gaming
+Lithuania,Gaming,22,0.44,0.44,Gaming
+Lithuania,Music,19,0.38,0.44,Gaming
+Lithuania,Film & Animation,3,0.06,0.44,Gaming
+Lithuania,Entertainment,3,0.06,0.44,Gaming
+Lithuania,Travel & Events,1,0.02,0.44,Gaming
+Lithuania,Autos & Vehicles,1,0.02,0.44,Gaming
+Lithuania,People & Blogs,1,0.02,0.44,Gaming
+Luxembourg,Gaming,14,0.5385,0.5385,Gaming
+Luxembourg,Sports,4,0.15380000000000002,0.5385,Gaming
+Luxembourg,Music,4,0.15380000000000002,0.5385,Gaming
+Luxembourg,Film & Animation,2,0.07690000000000001,0.5385,Gaming
+Luxembourg,Entertainment,2,0.07690000000000001,0.5385,Gaming
+MK,Gaming,20,0.4255,0.4255,Gaming
+MK,Music,14,0.2979,0.4255,Gaming
+MK,Entertainment,9,0.19149999999999998,0.4255,Gaming
+MK,Comedy,2,0.0426,0.4255,Gaming
+MK,Sports,1,0.0213,0.4255,Gaming
+MK,People & Blogs,1,0.0213,0.4255,Gaming
+Malaysia,Gaming,19,0.38,0.38,Gaming
+Malaysia,Music,18,0.36,0.38,Gaming
+Malaysia,Film & Animation,6,0.12,0.38,Gaming
+Malaysia,Entertainment,4,0.08,0.38,Gaming
+Malaysia,People & Blogs,3,0.06,0.38,Gaming
+Malta,Gaming,6,0.31579999999999997,0.31579999999999997,Gaming
+Malta,Music,5,0.2632,0.31579999999999997,Gaming
+Malta,Film & Animation,4,0.21050000000000002,0.31579999999999997,Gaming
+Malta,Entertainment,2,0.10529999999999999,0.31579999999999997,Gaming
+Malta,Sports,1,0.0526,0.31579999999999997,Gaming
+Malta,People & Blogs,1,0.0526,0.31579999999999997,Gaming
+Mexico,Gaming,20,0.4,0.4,Gaming
+Mexico,Music,18,0.36,0.4,Gaming
+Mexico,Entertainment,5,0.1,0.4,Gaming
+Mexico,Film & Animation,4,0.08,0.4,Gaming
+Mexico,People & Blogs,3,0.06,0.4,Gaming
+Moldova,Gaming,21,0.42,0.42,Gaming
+Moldova,Music,20,0.4,0.42,Gaming
+Moldova,People & Blogs,4,0.08,0.42,Gaming
+Moldova,Entertainment,2,0.04,0.42,Gaming
+Moldova,Film & Animation,2,0.04,0.42,Gaming
+Moldova,Comedy,1,0.02,0.42,Gaming
+Mongolia,Gaming,24,0.48,0.48,Gaming
+Mongolia,Music,22,0.44,0.48,Gaming
+Mongolia,People & Blogs,3,0.06,0.48,Gaming
+Mongolia,Film & Animation,1,0.02,0.48,Gaming
+Montenegro,Gaming,20,0.4255,0.4255,Gaming
+Montenegro,Music,13,0.2766,0.4255,Gaming
+Montenegro,Entertainment,10,0.21280000000000002,0.4255,Gaming
+Montenegro,Comedy,2,0.0426,0.4255,Gaming
+Montenegro,Sports,1,0.0213,0.4255,Gaming
+Montenegro,Film & Animation,1,0.0213,0.4255,Gaming
+Morocco,Music,23,0.46,0.46,Music
+Morocco,Gaming,20,0.4,0.46,Music
+Morocco,People & Blogs,4,0.08,0.46,Music
+Morocco,Howto & Style,1,0.02,0.46,Music
+Morocco,Sports,1,0.02,0.46,Music
+Morocco,Entertainment,1,0.02,0.46,Music
+Nepal,Music,20,0.4,0.4,Music
+Nepal,Gaming,19,0.38,0.4,Music
+Nepal,Entertainment,9,0.18,0.4,Music
+Nepal,Film & Animation,2,0.04,0.4,Music
+Netherlands,Gaming,21,0.42,0.42,Gaming
+Netherlands,Music,18,0.36,0.42,Gaming
+Netherlands,Entertainment,6,0.12,0.42,Gaming
+Netherlands,Film & Animation,4,0.08,0.42,Gaming
+Netherlands,Sports,1,0.02,0.42,Gaming
+New Zealand,Music,17,0.34,0.34,Music
+New Zealand,Gaming,14,0.28,0.34,Music
+New Zealand,Entertainment,10,0.2,0.34,Music
+New Zealand,Film & Animation,7,0.14,0.34,Music
+New Zealand,Sports,1,0.02,0.34,Music
+New Zealand,People & Blogs,1,0.02,0.34,Music
+Nigeria,Music,14,0.28,0.28,Music
+Nigeria,Entertainment,12,0.24,0.28,Music
+Nigeria,Gaming,8,0.16,0.28,Music
+Nigeria,People & Blogs,6,0.12,0.28,Music
+Nigeria,Film & Animation,5,0.1,0.28,Music
+Nigeria,Sports,4,0.08,0.28,Music
+Nigeria,Nonprofits & Activism,1,0.02,0.28,Music
+Norway,Gaming,21,0.42,0.42,Gaming
+Norway,Music,17,0.34,0.42,Gaming
+Norway,Entertainment,5,0.1,0.42,Gaming
+Norway,Film & Animation,4,0.08,0.42,Gaming
+Norway,Comedy,1,0.02,0.42,Gaming
+Norway,Autos & Vehicles,1,0.02,0.42,Gaming
+Norway,People & Blogs,1,0.02,0.42,Gaming
+Oman,Music,18,0.36,0.36,Music
+Oman,Gaming,14,0.28,0.36,Music
+Oman,Film & Animation,8,0.16,0.36,Music
+Oman,Entertainment,6,0.12,0.36,Music
+Oman,People & Blogs,4,0.08,0.36,Music
+Pakistan,Music,20,0.4,0.4,Music
+Pakistan,Gaming,14,0.28,0.4,Music
+Pakistan,Entertainment,9,0.18,0.4,Music
+Pakistan,Film & Animation,3,0.06,0.4,Music
+Pakistan,People & Blogs,2,0.04,0.4,Music
+Pakistan,Sports,1,0.02,0.4,Music
+Pakistan,Education,1,0.02,0.4,Music
+Papua New Guinea,Gaming,20,0.4,0.4,Gaming
+Papua New Guinea,Music,17,0.34,0.4,Gaming
+Papua New Guinea,Entertainment,6,0.12,0.4,Gaming
+Papua New Guinea,Film & Animation,5,0.1,0.4,Gaming
+Papua New Guinea,People & Blogs,1,0.02,0.4,Gaming
+Papua New Guinea,Comedy,1,0.02,0.4,Gaming
+Paraguay,Gaming,24,0.48,0.48,Gaming
+Paraguay,Music,17,0.34,0.48,Gaming
+Paraguay,People & Blogs,6,0.12,0.48,Gaming
+Paraguay,Entertainment,2,0.04,0.48,Gaming
+Paraguay,Film & Animation,1,0.02,0.48,Gaming
+Peru,Gaming,20,0.4,0.4,Gaming
+Peru,Music,15,0.3,0.4,Gaming
+Peru,Entertainment,7,0.14,0.4,Gaming
+Peru,People & Blogs,7,0.14,0.4,Gaming
+Peru,Film & Animation,1,0.02,0.4,Gaming
+Philippines,Gaming,18,0.36,0.36,Gaming
+Philippines,Music,15,0.3,0.36,Gaming
+Philippines,People & Blogs,8,0.16,0.36,Gaming
+Philippines,Film & Animation,5,0.1,0.36,Gaming
+Philippines,Entertainment,4,0.08,0.36,Gaming
+Poland,Music,24,0.48,0.48,Music
+Poland,Gaming,22,0.44,0.48,Music
+Poland,Entertainment,3,0.06,0.48,Music
+Poland,People & Blogs,1,0.02,0.48,Music
+Portugal,Gaming,18,0.36,0.36,Gaming
+Portugal,Music,16,0.32,0.36,Gaming
+Portugal,Entertainment,7,0.14,0.36,Gaming
+Portugal,People & Blogs,4,0.08,0.36,Gaming
+Portugal,Film & Animation,4,0.08,0.36,Gaming
+Portugal,Sports,1,0.02,0.36,Gaming
+Puerto Rico,Music,21,0.42,0.42,Music
+Puerto Rico,Gaming,18,0.36,0.42,Music
+Puerto Rico,Entertainment,6,0.12,0.42,Music
+Puerto Rico,Film & Animation,4,0.08,0.42,Music
+Puerto Rico,People & Blogs,1,0.02,0.42,Music
+Qatar,Music,17,0.34,0.34,Music
+Qatar,Gaming,14,0.28,0.34,Music
+Qatar,Film & Animation,9,0.18,0.34,Music
+Qatar,Entertainment,6,0.12,0.34,Music
+Qatar,People & Blogs,4,0.08,0.34,Music
+Romania,Music,25,0.5,0.5,Music
+Romania,Gaming,24,0.48,0.5,Music
+Romania,People & Blogs,1,0.02,0.5,Music
+Russia,Gaming,29,0.58,0.58,Gaming
+Russia,Music,12,0.24,0.58,Gaming
+Russia,Entertainment,3,0.06,0.58,Gaming
+Russia,People & Blogs,2,0.04,0.58,Gaming
+Russia,Film & Animation,2,0.04,0.58,Gaming
+Russia,News & Politics,1,0.02,0.58,Gaming
+Russia,Comedy,1,0.02,0.58,Gaming
+Saudi Arabia,Gaming,19,0.38,0.38,Gaming
+Saudi Arabia,Music,19,0.38,0.38,Gaming
+Saudi Arabia,People & Blogs,8,0.16,0.38,Gaming
+Saudi Arabia,Entertainment,2,0.04,0.38,Gaming
+Saudi Arabia,Film & Animation,2,0.04,0.38,Gaming
+Senegal,Music,21,0.42,0.42,Music
+Senegal,Gaming,10,0.2,0.42,Music
+Senegal,Entertainment,7,0.14,0.42,Music
+Senegal,Sports,6,0.12,0.42,Music
+Senegal,People & Blogs,4,0.08,0.42,Music
+Senegal,News & Politics,1,0.02,0.42,Music
+Senegal,Film & Animation,1,0.02,0.42,Music
+Serbia,Gaming,17,0.34,0.34,Gaming
+Serbia,Music,15,0.3,0.34,Gaming
+Serbia,Entertainment,9,0.18,0.34,Gaming
+Serbia,People & Blogs,4,0.08,0.34,Gaming
+Serbia,Film & Animation,3,0.06,0.34,Gaming
+Serbia,Comedy,2,0.04,0.34,Gaming
+Singapore,Music,18,0.36,0.36,Music
+Singapore,Gaming,14,0.28,0.36,Music
+Singapore,Entertainment,9,0.18,0.36,Music
+Singapore,Film & Animation,6,0.12,0.36,Music
+Singapore,People & Blogs,2,0.04,0.36,Music
+Singapore,Sports,1,0.02,0.36,Music
+Slovakia,Music,21,0.42,0.42,Music
+Slovakia,Gaming,17,0.34,0.42,Music
+Slovakia,Entertainment,6,0.12,0.42,Music
+Slovakia,Film & Animation,4,0.08,0.42,Music
+Slovakia,News & Politics,1,0.02,0.42,Music
+Slovakia,Comedy,1,0.02,0.42,Music
+Slovenia,Gaming,20,0.43479999999999996,0.43479999999999996,Gaming
+Slovenia,Music,12,0.2609,0.43479999999999996,Gaming
+Slovenia,Entertainment,8,0.1739,0.43479999999999996,Gaming
+Slovenia,Comedy,2,0.0435,0.43479999999999996,Gaming
+Slovenia,People & Blogs,1,0.0217,0.43479999999999996,Gaming
+Slovenia,Film & Animation,1,0.0217,0.43479999999999996,Gaming
+Slovenia,News & Politics,1,0.0217,0.43479999999999996,Gaming
+Slovenia,Sports,1,0.0217,0.43479999999999996,Gaming
+South Africa,Music,22,0.44,0.44,Music
+South Africa,Gaming,17,0.34,0.44,Music
+South Africa,Entertainment,4,0.08,0.44,Music
+South Africa,People & Blogs,3,0.06,0.44,Music
+South Africa,Sports,2,0.04,0.44,Music
+South Africa,Film & Animation,2,0.04,0.44,Music
+South Korea,Gaming,24,0.48,0.48,Gaming
+South Korea,Music,22,0.44,0.48,Gaming
+South Korea,Entertainment,3,0.06,0.48,Gaming
+South Korea,People & Blogs,1,0.02,0.48,Gaming
+Spain,Gaming,20,0.4,0.4,Gaming
+Spain,Music,15,0.3,0.4,Gaming
+Spain,People & Blogs,6,0.12,0.4,Gaming
+Spain,Film & Animation,5,0.1,0.4,Gaming
+Spain,Entertainment,4,0.08,0.4,Gaming
+Sri Lanka,Music,20,0.4,0.4,Music
+Sri Lanka,Gaming,11,0.22,0.4,Music
+Sri Lanka,Entertainment,9,0.18,0.4,Music
+Sri Lanka,People & Blogs,5,0.1,0.4,Music
+Sri Lanka,Film & Animation,5,0.1,0.4,Music
+Sweden,Gaming,23,0.46,0.46,Gaming
+Sweden,Music,19,0.38,0.46,Gaming
+Sweden,Film & Animation,3,0.06,0.46,Gaming
+Sweden,Entertainment,2,0.04,0.46,Gaming
+Sweden,People & Blogs,2,0.04,0.46,Gaming
+Sweden,Travel & Events,1,0.02,0.46,Gaming
+Switzerland,Gaming,16,0.32,0.32,Gaming
+Switzerland,Music,14,0.28,0.32,Gaming
+Switzerland,Entertainment,12,0.24,0.32,Gaming
+Switzerland,Film & Animation,5,0.1,0.32,Gaming
+Switzerland,Sports,2,0.04,0.32,Gaming
+Switzerland,Comedy,1,0.02,0.32,Gaming
+Tanzania,Music,31,0.62,0.62,Music
+Tanzania,Gaming,6,0.12,0.62,Music
+Tanzania,Sports,5,0.1,0.62,Music
+Tanzania,People & Blogs,5,0.1,0.62,Music
+Tanzania,Film & Animation,2,0.04,0.62,Music
+Tanzania,Entertainment,1,0.02,0.62,Music
+Thailand,Music,21,0.42,0.42,Music
+Thailand,Gaming,21,0.42,0.42,Music
+Thailand,Entertainment,3,0.06,0.42,Music
+Thailand,Film & Animation,3,0.06,0.42,Music
+Thailand,Travel & Events,1,0.02,0.42,Music
+Thailand,People & Blogs,1,0.02,0.42,Music
+Tunisia,Music,21,0.42,0.42,Music
+Tunisia,Gaming,17,0.34,0.42,Music
+Tunisia,Entertainment,4,0.08,0.42,Music
+Tunisia,People & Blogs,4,0.08,0.42,Music
+Tunisia,Film & Animation,2,0.04,0.42,Music
+Tunisia,Sports,1,0.02,0.42,Music
+Tunisia,Howto & Style,1,0.02,0.42,Music
+Turkey,Gaming,24,0.48,0.48,Gaming
+Turkey,Music,23,0.46,0.48,Gaming
+Turkey,Entertainment,2,0.04,0.48,Gaming
+Turkey,People & Blogs,1,0.02,0.48,Gaming
+Ukraine,Music,23,0.46,0.46,Music
+Ukraine,Gaming,22,0.44,0.46,Music
+Ukraine,Film & Animation,2,0.04,0.46,Music
+Ukraine,Comedy,1,0.02,0.46,Music
+Ukraine,Entertainment,1,0.02,0.46,Music
+Ukraine,People & Blogs,1,0.02,0.46,Music
+United Arab Emirates,Music,16,0.32,0.32,Music
+United Arab Emirates,Gaming,14,0.28,0.32,Music
+United Arab Emirates,Entertainment,12,0.24,0.32,Music
+United Arab Emirates,Film & Animation,6,0.12,0.32,Music
+United Arab Emirates,People & Blogs,2,0.04,0.32,Music
+United Kingdom,Gaming,19,0.38,0.38,Gaming
+United Kingdom,Music,17,0.34,0.38,Gaming
+United Kingdom,Entertainment,6,0.12,0.38,Gaming
+United Kingdom,Film & Animation,4,0.08,0.38,Gaming
+United Kingdom,Sports,2,0.04,0.38,Gaming
+United Kingdom,Comedy,1,0.02,0.38,Gaming
+United Kingdom,People & Blogs,1,0.02,0.38,Gaming
+United States,Gaming,20,0.4,0.4,Gaming
+United States,Music,17,0.34,0.4,Gaming
+United States,Entertainment,6,0.12,0.4,Gaming
+United States,Film & Animation,5,0.1,0.4,Gaming
+United States,Comedy,1,0.02,0.4,Gaming
+United States,People & Blogs,1,0.02,0.4,Gaming
+Uruguay,Gaming,23,0.46,0.46,Gaming
+Uruguay,Music,22,0.44,0.46,Gaming
+Uruguay,People & Blogs,2,0.04,0.46,Gaming
+Uruguay,Film & Animation,2,0.04,0.46,Gaming
+Uruguay,Entertainment,1,0.02,0.46,Gaming
+Venezuela,Gaming,23,0.46,0.46,Gaming
+Venezuela,Music,19,0.38,0.46,Gaming
+Venezuela,People & Blogs,4,0.08,0.46,Gaming
+Venezuela,Film & Animation,3,0.06,0.46,Gaming
+Venezuela,Entertainment,1,0.02,0.46,Gaming
+Vietnam,Music,20,0.4,0.4,Music
+Vietnam,Gaming,17,0.34,0.4,Music
+Vietnam,People & Blogs,8,0.16,0.4,Music
+Vietnam,Entertainment,4,0.08,0.4,Music
+Vietnam,Film & Animation,1,0.02,0.4,Music
+Yemen,Music,22,0.44,0.44,Music
+Yemen,Gaming,17,0.34,0.44,Music
+Yemen,People & Blogs,7,0.14,0.44,Music
+Yemen,Entertainment,2,0.04,0.44,Music
+Yemen,Howto & Style,1,0.02,0.44,Music
+Yemen,Film & Animation,1,0.02,0.44,Music
+Zimbabwe,Music,19,0.38,0.38,Music
+Zimbabwe,Gaming,15,0.3,0.38,Music
+Zimbabwe,People & Blogs,7,0.14,0.38,Music
+Zimbabwe,Sports,6,0.12,0.38,Music
+Zimbabwe,Entertainment,2,0.04,0.38,Music
+Zimbabwe,Film & Animation,1,0.02,0.38,Music
