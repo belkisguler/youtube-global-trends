@@ -73,7 +73,7 @@ This collection shows YouTube activity across countries. Click or hover to filte
 - **What it shows:** Bar chart of channels that were most popular per country; bars are colored by continent and heights show how many countries ranked that channel highly.  
 - **Interaction:** Hover to see counts and contributing countries; use filters to focus by continent or country.  
 - **Look for:** Channels with global vs regional popularity.
-  
+-
 #### Future Improvements
 - Automate daily API collection with cron jobs or Airflow.
 - Add sentiment analysis of video comments.
