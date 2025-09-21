@@ -56,7 +56,7 @@ This collection shows YouTube activity across countries. Click or hover to filte
 - **Look for:** Which categories dominate by country and how category mixes differ regionally.
 
 ### Dashboard 2 — **Views vs Likes — Category & Duration Breakdown**
-[![02-views-likes-duration](visuals/02-views-likes-duration.png)](https://public.tableau.com/views/02-views-likes-duration/DataAnalysis?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![02-views-likes-duration](visuals/02-views-likes-duration.png)]([https://public.tableau.com/views/YourWorkbook/SheetNam](https://public.tableau.com/views/02-views-likes-duration/DataAnalysis?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 - **What it shows:**  
   - Top-left: Scatter plot of **views vs likes**.  
   - Bottom-left: **View count by category**.  
