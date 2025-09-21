@@ -47,7 +47,7 @@ This repository fetches trending videos from YouTube Top Charts across regions, 
 - `duration_category` — `short` / `medium` / `long` Duration Category: derived from duration 
 ### Tableau Dashboard Preview
 Click the images to open the interactive dashboard on Tableau Public.
-This collection shows YouTube activity across countries. Click or hover to filter and drill down.
+This collection shows YouTube activity across countries. 
 
 ### Dashboard 1 — **Global YouTube: Top Category by Country**
 [![01-global-top-categories](visuals/01-global-top-categories.png)](https://public.tableau.com/views/01-global-top-categories/GeographicalAnalysis?:language=de-DE&:display_count=n&:origin=viz_share_link)
@@ -73,7 +73,8 @@ This collection shows YouTube activity across countries. Click or hover to filte
 - **What it shows:** Bar chart of channels that were most popular per country; bars are colored by continent and heights show how many countries ranked that channel highly.  
 - **Interaction:** Hover to see counts and contributing countries; use filters to focus by continent or country.  
 - **Look for:** Channels with global vs regional popularity.
--
+
+--
 #### Future Improvements
 - Automate daily API collection with cron jobs or Airflow.
 - Add sentiment analysis of video comments.
