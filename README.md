@@ -50,13 +50,13 @@ Click the images to open the interactive dashboard on Tableau Public.
 This collection shows YouTube activity across countries. Click or hover to filter and drill down.
 
 ### Dashboard 1 — **Global YouTube: Top Category by Country**
-[![01-global-top-categories](visuals/01-global-top-categories.png)]([https://public.tableau.com/views/YourWorkbook/SheetNam](https://public.tableau.com/views/01-global-top-categories/GeographicalAnalysis?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[![01-global-top-categories](visuals/01-global-top-categories.png)](https://public.tableau.com/views/01-global-top-categories/GeographicalAnalysis?:language=de-DE&:display_count=n&:origin=viz_share_link)
 - **What it shows:** A world map with each analyzed country marked and labelled with its top YouTube category.  
 - **Interaction:** Click a country on the map to update the pie chart on the right showing that country’s category distribution.  
 - **Look for:** Which categories dominate by country and how category mixes differ regionally.
 
 ### Dashboard 2 — **Views vs Likes — Category & Duration Breakdown**
-[![02-views-likes-duration](visuals/02-views-likes-duration.png)]([https://public.tableau.com/views/YourWorkbook/SheetNam](https://public.tableau.com/views/02-views-likes-duration/DataAnalysis?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[![02-views-likes-duration](visuals/02-views-likes-duration.png)](https://public.tableau.com/views/02-views-likes-duration/DataAnalysis?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **What it shows:**  
   - Top-left: Scatter plot of **views vs likes**.  
   - Bottom-left: **View count by category**.  
@@ -69,20 +69,11 @@ This collection shows YouTube activity across countries. Click or hover to filte
 - **Look for:** Relationship of likes to views, which categories get most views, and how engagement changes with video length.
 
 ### Dashboard 3 — **Top Channels by Country & Region**
-[![03-top-channels-by-region](visuals/03-top-channels-by-region.png)]([https://public.tableau.com/views/YourWorkbook/SheetName3](https://public.tableau.com/views/03-top-channels-by-region/MostPopularChannels?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[![03-top-channels-by-region](visuals/03-top-channels-by-region.png)](https://public.tableau.com/views/03-top-channels-by-region/MostPopularChannels?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **What it shows:** Bar chart of channels that were most popular per country; bars are colored by continent and heights show how many countries ranked that channel highly.  
 - **Interaction:** Hover to see counts and contributing countries; use filters to focus by continent or country.  
 - **Look for:** Channels with global vs regional popularity.
-- 
-
-### Tableau Dashboard Preview
-[![01-global-top-categories](visuals/01-global-top-categories.png)](https://public.tableau.com/views/01-global-top-categories/GeographicalAnalysis?:language=de-DE&:display_count=n&:origin=viz_share_link)
-[![02-views-likes-duration](visuals/02-views-likes-duration.png)](https://public.tableau.com/views/02-views-likes-duration/SheetName?:showVizHome=no&:embed=true)
-[![03-top-channels-by-region](visuals/03-top-channels-by-region.png)](https://public.tableau.com/views/03-top-channels-by-region/SheetName?:showVizHome=no&:embed=true)
-
-
-
-
+  
 #### Future Improvements
 - Automate daily API collection with cron jobs or Airflow.
 - Add sentiment analysis of video comments.
