@@ -21,13 +21,9 @@ This repository fetches trending videos from YouTube Top Charts across regions, 
 
 ### Repository Structure
 ```
-├── scripts/
-│   ├── fetch_youtube_data.py   # API integration & data retrieval
-│   ├── process_data.py         # Cleaning & transformations
-├── notebooks/
-│   ├── eda.ipynb               # Exploratory data analysis
+├── youtube_trending_collector.py # API integration & data retrieval, Cleaning & transformations
 ├── data/
-│   ├── raw/                    # API results
+│   ├── raw_data.csv            # API results
 │   ├── processed/              # Clean dataset for Tableau
 ├── tableau/
 │   ├── dashboard.twbx          # Tableau workbook
